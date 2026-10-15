@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'boomerangbouncemilkshake',
   tip2Id: 'boomerangbounceicecream',
-  tip1Label: '💛 Buy me a milkshake',
-  tip2Label: '💛 Buy me an ice cream',
+  tip1Label: '💛 Buy Boomerang Bounce a milkshake',
+  tip2Label: '💛 Buy Boomerang Bounce an ice cream',
 );
